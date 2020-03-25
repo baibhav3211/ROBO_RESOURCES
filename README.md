@@ -3,7 +3,7 @@
 ### COURSES/MATERIALS (FREE DURING CORONA OUTBREAK)
 * [450 Ivy League Courses](https://www.freecodecamp.org/news/ivy-league-freeonline-courses-a0d7ae675869/)
 
-* [Python Courses](https://mega.nz/#F!zfJQyLrT!uvGAaSb7BsbggzXXWqosQ)
+* [Python Courses](https://mega.nz/#F!zfJQyLrT!uvGAaSb7Bs5bggzXXWqosQ)
 
 
 ### UDEMY COURSES
@@ -24,4 +24,6 @@
 * [Learn Google Jamboard](https://www.udemy.com/course/learn-google-jamboard/?couponCode=TRY40FREE)
 
 * [Learn Google Keep](https://www.udemy.com/course/learn-google-keep/?couponCode=TRY40FREE)
+
+* [Learn Advanced Excel Lookups and Functions](https://www.udemy.com/course/learn-advance-excel-skills/?couponCode=KILLCORONA)
 
