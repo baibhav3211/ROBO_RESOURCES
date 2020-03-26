@@ -5,6 +5,8 @@
 
 * [Python Courses](https://mega.nz/#F!zfJQyLrT!uvGAaSb7Bs5bggzXXWqosQ)
 
+*  [Moz Academy - All Courses(COUPON: wegotthis](https://academy.moz.com)
+
 
 ### UDEMY COURSES
 * [Learn Slack](https://www.udemy.com/course/learn-slack/?couponCode=TRY40FREE)
@@ -26,4 +28,6 @@
 * [Learn Google Keep](https://www.udemy.com/course/learn-google-keep/?couponCode=TRY40FREE)
 
 * [Learn Advanced Excel Lookups and Functions](https://www.udemy.com/course/learn-advance-excel-skills/?couponCode=KILLCORONA)
+
+
 
