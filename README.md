@@ -5,7 +5,7 @@
 
 * [Python Courses](https://mega.nz/#F!zfJQyLrT!uvGAaSb7Bs5bggzXXWqosQ)
 
-*  [Moz Academy - All Courses(COUPON: wegotthis](https://academy.moz.com)
+*  [Moz Academy - All Courses(COUPON: wegotthis)](https://academy.moz.com)
 
 
 ### UDEMY COURSES
